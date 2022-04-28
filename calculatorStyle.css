@@ -1,0 +1,21 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Bungee+Inline&family=Finger+Paint&family=Lobster&family=Permanent+Marker&family=Righteous&family=Saira+Condensed:wght@600&display=swap');
+
+#results {
+    display:none;
+  }
+
+.input-group, h1, h5 {background-color: aquamarine;
+                      font-family: 'Bangers';
+                      letter-spacing: 5px;
+                      font-size: 25px;}
+h1, h5 {font-style: italic;
+    text-transform: uppercase;
+    letter-spacing: 3px;}
+
+hr {height:2px;
+    border-width:0;}
+
+.form-group {
+         font-family: 'Bangers';
+        letter-spacing: 5px;}
